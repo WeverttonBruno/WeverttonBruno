@@ -1,10 +1,8 @@
 <p align="center">
   <a href="#">
     <img align="center" width="1000" src="httyd-how-to-train-your-dragon.gif" />
-    <p>V</p>
   </a>
 </p>
-</br>
 </br>
  <div>
   <a href="https://github.com/weverttonbruno">
