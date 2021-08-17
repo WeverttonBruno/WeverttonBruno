@@ -21,6 +21,6 @@
   <a href = "mailto:evoce773@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weverttonbruno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/wevertton/wevertton/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WeverttonBruno)
  
 </div>
