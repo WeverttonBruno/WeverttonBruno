@@ -39,7 +39,7 @@
  
 </p>
 
-<p align="center"> 
+<p align="center">
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
