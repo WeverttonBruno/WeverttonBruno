@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="1000" src="httyd-how-to-train-your-dragon.gif" />
+    <img align="center" width="900" src="httyd-how-to-train-your-dragon.gif" />
   </a>
 </p>
 </br>
