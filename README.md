@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/KmHueA88mFABT9GkkR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/megasixtyfour-rocco-mega64-mega-64-KmHueA88mFABT9GkkR"></a></p>
+   <img src="https://tenor.com/view/thumbs-up-hacker-mmi-grenoble-hackerman-gif-11287448">
   </a>
 </p>
 </br>
