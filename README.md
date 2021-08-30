@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-   <img src="https://tenor.com/view/thumbs-up-hacker-mmi-grenoble-hackerman-gif-11287448">
+   <img src="https://github.com/WeverttonBruno/WeverttonBruno/blob/main/thumbs-up-hacker.gif" height=400>
   </a>
 </p>
 </br>
